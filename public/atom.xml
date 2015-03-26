@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[findings of osxi]]></title>
+  <link href="http://osxi.herokuapp.com/atom.xml" rel="self"/>
+  <link href="http://osxi.herokuapp.com/"/>
+  <updated>2015-03-25T21:57:10-05:00</updated>
+  <id>http://osxi.herokuapp.com/</id>
+  <author>
+    <name><![CDATA[osxi]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
