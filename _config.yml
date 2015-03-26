@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://osxi.herokuapp.com
+title: findings of osxi
+subtitle: A blogging crap for slackers.
+author: osxi
 simple_search: https://www.google.com/search
-description:
+email: osxi@noreply.github.io
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
